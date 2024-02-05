@@ -3,7 +3,7 @@
 MISM3405 Spring 2023
 Benjamin Teixeira
     
-Filename: MISM3045_citi.py
+Filename: Citi_Bike_Customers_vs_Subscribers.py
     
 Description:
     question: how many citi bike riders ride daily
